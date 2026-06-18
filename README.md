@@ -80,7 +80,7 @@ With experience across AWS, Azure, Kubernetes, and modern automation platforms, 
 
 ## 📫 Connect With Me
 
-- LinkedIn: <your-linkedin>
+- GitHub: @deepakvenkatram
 
 ---
 
