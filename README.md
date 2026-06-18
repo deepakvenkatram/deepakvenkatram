@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi there 👋 I'm Deepak Venkatram
 
-<!--
-**deepakvenkatram/deepakvenkatram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+DevOps & AI Automation Engineer passionate about building scalable cloud infrastructure, automating complex workflows, and leveraging Artificial Intelligence to streamline operations and accelerate business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With experience across AWS, Azure, Kubernetes, and modern automation platforms, I focus on creating intelligent systems that combine cloud-native technologies, DevOps best practices, and AI-driven automation to solve real-world challenges at scale.
+
+---
+
+## 🔭 Current Focus
+
+- Leveraging AI to automate complex business and operational workflows
+- Building AI-powered platforms and intelligent automation solutions
+- Kubernetes scaling, optimization, and platform engineering
+- Cloud-native application deployments
+- Infrastructure as Code and GitOps practices
+- Workflow orchestration using Argo Workflows
+- DevOps automation and observability
+- Integrating LLMs and AI agents into enterprise workflows
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud Platforms
+- AWS
+- Microsoft Azure
+
+### 🚢 Containers & Orchestration
+- Kubernetes
+- Docker
+- Argo Workflows
+- Helm
+
+### 🤖 AI & Automation
+- Generative AI
+- LLM Integrations
+- AI Workflow Automation
+- AI Agents
+- Prompt Engineering
+- Automation Framework Design
+
+### ⚙️ DevOps & Infrastructure
+- Jenkins
+- GitHub Actions
+- Ansible
+- Terraform
+- CI/CD Pipeline Design
+- Infrastructure as Code (IaC)
+
+### 💻 Programming & Backend
+- Python
+- FastAPI
+- REST APIs
+- Linux Administration
+- Shell Scripting (Bash)
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- ELK Stack
+
+---
+
+## 💡 What I Enjoy Building
+
+- AI-powered business automation platforms
+- Cloud-native applications
+- Enterprise workflow automation
+- Kubernetes-based platforms
+- Infrastructure automation solutions
+- Intelligent DevOps tooling
+- Self-service engineering platforms
+
+## 📫 Connect With Me
+
+- LinkedIn: <your-linkedin>
+
+---
+
+*"Transforming manual processes into intelligent automated systems through the power of Cloud, DevOps, and AI."*
