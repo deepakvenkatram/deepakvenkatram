@@ -78,6 +78,20 @@ With experience across AWS, Azure, Kubernetes, and modern automation platforms, 
 - Intelligent DevOps tooling
 - Self-service engineering platforms
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Domain | Key Technologies |
+|----------|---------|------------------|
+| 🔍 DBPulse | Database Monitoring & Alerting | Python, SQL Server, Docker |
+| ☸️ Unified Monitor | Kubernetes Observability | Python, Kubernetes, Ansible |
+| 🔗 Short-Track | Cloud-Native Microservices | Go, Redis, RabbitMQ, PostgreSQL |
+| ⏰ Cronflow | Job Monitoring & Reliability | FastAPI, SQLite, Slack |
+| 📊 KubeView | Kubernetes Visualization | Go, Kubernetes |
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: @deepakvenkatram
